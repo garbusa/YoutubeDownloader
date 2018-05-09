@@ -5,3 +5,4 @@ planned updates
 --
 + Multithreading
 + GUI
++ more formats
